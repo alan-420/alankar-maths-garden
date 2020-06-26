@@ -18,9 +18,10 @@
 
 
 ## Demo
-Link: [](https://indian-currency-prediction.herokuapp.com/)
+Link: [](https://alan-420.github.io/alankar-maths-garden/)
+Video Link:[](https://drive.google.com/file/d/12qGlhaOss2UbzrOTqdWbAiD3jzUb0unT/view?usp=sharing)(https://www.youtube.com/watch?v=4eA1D5sja10)
 
-[![](https://i.imgur.com/5gj4USj.png)](https://indian-currency-prediction.herokuapp.com/)
+[![](https://drive.google.com/file/d/12qGlhaOss2UbzrOTqdWbAiD3jzUb0unT/view?usp=sharing)](https://alan-420.github.io/alankar-maths-garden/)
 
 ## Overview
 This is a simple image classification Flask app trained on the top of Keras API. The trained model (`app/model/model.h5`) takes an image (Indian Paper Currency) as an input and predict the class of image from __10, 20, 50, 100, 200, 500, 2000__ denomination.
