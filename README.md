@@ -27,7 +27,7 @@ So I made this Math-Garden app.
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) 
+[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png" width=200>] [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=200>] [<img target="_blank" src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" width=200>]
 ## Team
 ![Alankar](https://user-images.githubusercontent.com/53686128/85886789-51348d80-b804-11ea-8a8f-23567029cfe1.jpeg)
 ## Credit
