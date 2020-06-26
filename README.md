@@ -9,7 +9,7 @@
  
 
 ## Demo
-> Link: [https://alan-420.github.io/alankar-maths-garden/](https://alan-420.github.io/alankar-maths-garden/)
+> Link: [https://alan-ai-learner.github.io/alankar-maths-garden/](https://alan-ai-learner.github.io/alankar-maths-garden/)
 
 [Video Demo Link:](https://www.youtube.com/watch?v=4eA1D5sja10)
 
